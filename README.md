@@ -1,4 +1,4 @@
-<h1 align="center">Namashkar 🙏 I'm Aditya Dev</h1>  
+<h1 align="center">नमस्कार 🙏 I'm Aditya Dev</h1>  
 <h3 align="center">I'm currently an undergraduate. Am interested in Physics 🔭, Mathematics 📐 and Data Analysis 📊.</h3>  
   
 -  🎓 I'm an undergraduate student at [IISER Mohali](https://www.iisermohali.ac.in/)  in India.
