@@ -5,7 +5,7 @@
 
 - 📜 I'm interested in Physics 🔭, Mathematics 📐 and Data Analysis 📊.
 
-- 🌱 I’m currently learning **Julia, Data Analysis** and some other random stuff.    
+- 🌱 I’m currently learning **Data Analysis** and some other random stuff.    
   
 - 👨‍💻 You can find my projects at [https://github.com/dev-aditya](https://github.com/dev-aditya)  
   
