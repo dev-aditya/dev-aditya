@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analysis** and some other random stuff.    
   
-- 👨‍💻 You can find my projects at [https://github.com/dev-aditya](https://github.com/dev-aditya)  
+- 👨‍💻 You can find my projects [here](https://github.com/dev-aditya?tab=repositories)  
   
 - 📫 You can reach me at <a href="mailto:adityadev21.ad@yahoo.com">adityadev21.ad@yahoo.com</a>  
 
