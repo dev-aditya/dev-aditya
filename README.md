@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analysis** and some other random stuff.
 - 👨‍💻 You can find my projects [here](https://github.com/dev-aditya?tab=repositories)
-- 📫 You can reach me at <a href="mailto:adityadev21.ad@yahoo.com">adityadev21.ad@yahoo.com</a>
+- 📫 You can reach me at <a href="mailto:adityadev21.ad@gmail.com">adityadev21.ad@gmail.com</a>
 
 - 🗣️ I speak [Sarazi](https://en.wikipedia.org/wiki/Sarazi) (_native_), Hindi and English.
 
