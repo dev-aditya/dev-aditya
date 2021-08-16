@@ -20,10 +20,10 @@
 <li>Ubuntu <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="linux" width="20" height="20"/> </a>  , Arduino  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/> </a>, GeoGebra<a href="https://www.geogebra.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Created_with_GeoGebra-logo.svg" alt="geogebra" width="20" height="20"/> </a> </li>
 </ul>
 
-<details>
+
   <summary>:zap:<b>Github Stats</b>:zap:</summary>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-aditya&show_icons=true&locale=en&theme=algolia" alt="dev-aditya" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-aditya&show_icons=true&theme=algolia&locale=en&layout=compact" alt="dev-aditya" /></p>  
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-aditya&show_icons=true&locale=en&theme=algolia" alt="dev-aditya" /></p>
 
-</details>
