@@ -1,15 +1,8 @@
 <h1 align="center">नमस्कार 🙏 I'm Aditya Dev</h1>  
 <h3 align="center">Welcome to my GitHub Profile</p></h3>  
   
--  🎓 I'm an undergraduate student at [IISER Mohali](https://www.iisermohali.ac.in/)  in India.
+<h5 align="center"> 🎓 I'm an undergraduate student at <a href="https://www.iisermohali.ac.in/" target="_blank">IISER Mohali </a>  in India. </h5>
 
-- 📜 I'm interested in Physics 🔭, Mathematics 📐 and Data Analysis 📊.
-
-- 🌱 I’m currently learning **Data Analysis** and some other random stuff.
-- 👨‍💻 You can find my projects [here](https://github.com/dev-aditya?tab=repositories)
-- 📫 You can reach me at <a href="mailto:adityadev21.ad@gmail.com">adityadev21.ad@gmail.com</a>
-
-- 🗣️ I speak [Sarazi](https://en.wikipedia.org/wiki/Sarazi) (_native_), Hindi and English.
 
 <h3 align="center">Languages and Tools:</h3>  
 <ul>
