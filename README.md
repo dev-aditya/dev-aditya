@@ -1,7 +1,7 @@
 <h1 align="center">नमस्कार 🙏 I'm Aditya Dev</h1>  
 <h3 align="center">Welcome to my GitHub Profile</p></h3>  
   
-<h5 align="center"> 🎓 I'm an undergraduate student at <a href="https://www.iisermohali.ac.in/" target="_blank">IISER Mohali </a>  in India. </h5>
+<h4 align="center"> 🎓 I'm an undergraduate student at <a href="https://www.iisermohali.ac.in/" target="_blank">IISER Mohali </a>  in India. </h4>
 
 
 <h3 align="center">Languages and Tools:</h3>  
