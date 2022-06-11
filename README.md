@@ -11,6 +11,16 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Quantum%20Computation-%236929C4.svg?&style=for-the-badge&logo=qiskit&logoColor=white)
+
+
+
+## Feel free to get in touch 
+<p style="text-align: center;">
+    <a href="https://www.linkedin.com/in/adi--dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/adi__dev"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee"/></a>
+    <a href="mailto:adityadev21.ad@yahoo.com"><img src="https://img.shields.io/badge/Email%20-%2300599C.svg?&style=for-the-badge&logoColor=white&color=EA4335&logo=gmail"/></a>
+</p>
 
 
  <summary>:zap:<b>Github Stats</b>:zap:</summary>
