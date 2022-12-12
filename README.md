@@ -24,7 +24,8 @@
 
 
  <summary>:zap:<b>Github Stats</b>:zap:</summary>
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aditya&theme=dark&show_icons=true) 
+ 
+![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aditya&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aditya&layout=compact)
 
