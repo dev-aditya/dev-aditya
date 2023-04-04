@@ -18,9 +18,8 @@
 
 ## Feel free to get in touch 
 <p style="text-align: center;">
-    <a href="https://www.linkedin.com/in/adi--dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/adi__dev"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee"/></a>
-    <a href="mailto:adityadev21.ad@yahoo.com"><img src="https://img.shields.io/badge/Email%20-%2300599C.svg?&style=for-the-badge&logoColor=white&color=EA4335&logo=gmail"/></a>
+    <a href="mailto:adityadev.iisermohali@gmail.com"><img src="https://img.shields.io/badge/Email%20-%2300599C.svg?&style=for-the-badge&logoColor=white&color=EA4335&logo=gmail"/></a>
 </p>
 
 
