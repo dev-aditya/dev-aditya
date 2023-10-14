@@ -18,7 +18,7 @@
 
 ## Feel free to get in touch 
 <p style="text-align: center;">
-    <a href="mailto:adityadev.iisermohali@gmail.com"><img src="https://img.shields.io/badge/Email%20-%2300599C.svg?&style=for-the-badge&logoColor=white&color=EA4335&logo=gmail"/></a>
+    <a href="mailto:adityadev@tuta.io"><img src="https://img.shields.io/badge/Email%20-%2300599C.svg?&style=for-the-badge&logoColor=white&color=EA4335&logo=gmail"/></a>
 </p>
 
 
