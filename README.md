@@ -58,5 +58,5 @@ My code runs cold like the glaciers and (almost) as fast as a neutrinozzz....
 </p>
 
 <p align="center">
-  <i>"Nature loves to hide." — Heraclitus (we just use code to look for it)</i>
+  <i>"Nature loves to hide." — Heraclitus (and I use code to find her...)</i>
 </p>
