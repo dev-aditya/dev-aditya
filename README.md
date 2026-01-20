@@ -36,7 +36,6 @@ My code runs cold like the glaciers and (almost) as fast as a neutrinozzz....
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Quantum%20Computation-%236929C4.svg?&style=for-the-badge&logo=qiskit&logoColor=white" alt="Quantum Computation"/>
 </p>
 
 ---
