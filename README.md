@@ -12,8 +12,6 @@
 
 **Namaste!** I'm from the serene heights of the **Himalayas**. When I'm not on a high-altitude trail, I'm wandering through Hilbert space, simulating **quantum spin systems**.
 
-My code runs cold like the glaciers and (almost) as fast as a neutrinozzz....
-
 * 🔭 **Current focus:** Quantum optimal control of spin systems  
 * 💻 **Vibe:** Mostly Julia, quantum, and chill  
 * 🏔️ **Home:** Born in the abode of snow  
