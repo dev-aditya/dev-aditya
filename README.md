@@ -5,11 +5,9 @@
 
 ---
 
-### 🧊 About Me
-
 **Namaste!** I'm from the serene heights of the **Himalayas**. When I'm not on a high-altitude trail, I'm wandering through Hilbert space, simulating **quantum spin systems**.
 
-* 🔭 **Current focus:** Quantum optimal control of spin systems  
+* 🔭 **Current focus:** Quantum optimal control of spin systems (aka qubits, to sound cool!)  
 * 💻 **Vibe:** Mostly Julia, quantum, and chill  
 * 🏔️ **Home:** Born in the abode of snow  
 
