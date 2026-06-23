@@ -1,4 +1,3 @@
-<h1 align="center">नमस्कार</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Quantum%20Physics%20-%20Himalayan%20Vibe&fontSize=25&animation=fadeIn&fontAlignY=35&desc=Spin%20Systems%20and%20Computational%20Physics&descAlignY=55&descSize=15" width="100%"/>
 </p>
