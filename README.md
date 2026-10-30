@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit"/>
   <img src="https://img.shields.io/badge/QuTiP-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="QuTiP"/>
   <img src="https://img.shields.io/badge/-QuantumOptics-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="QuantumOptics"/>
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"/>
@@ -35,7 +35,7 @@
 ### 📊 The Data
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-aditya&show_icons=true&theme=tokyonight&hide_border=true" alt="Dev's GitHub stats" height="180"/>
+  <img src="./profile/stats.svg" alt="Dev's GitHub stats" height="180"/>
 </p>
 
 ---
