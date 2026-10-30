@@ -35,7 +35,7 @@
 ### 📊 The Data
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Dev's GitHub stats" height="180"/>
+  <img src="https://raw.githubusercontent.com/dev-aditya/dev-aditya/master/profile/stats.svg" alt="Dev's GitHub stats" height="180"/>
 </p>
 
 ---
